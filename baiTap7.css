@@ -1,0 +1,33 @@
+.header {
+    
+    /* Căn hình ảnh ở giữa*/
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.h3-body {
+    text-align: center;
+}
+.para2,
+.para1 {
+    text-align: justify;
+    line-height: 1.4;
+    margin-right: 32px;
+    margin-left: 32px;
+}
+
+.footer {
+    text-align: center;
+    
+}
+
+.paraLast {
+    margin-top: 5px;
+}
+
+
+.total {
+    background-color: rgb(184, 239, 220);
+}
